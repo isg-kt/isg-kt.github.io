@@ -1,0 +1,13 @@
+# ----------| General Settings |----------
+title: Isg-kt
+email: ismaelgmoreirakt@gmail.com
+description: This is my personal blog, where I write about technology in general.
+baseurl: ""
+url: "https://isg-kt.github.io"
+github_username:  isg-kt
+
+# ----------| Theme Settings |----------
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
